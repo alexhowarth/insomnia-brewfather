@@ -1,6 +1,6 @@
 # Insomnia Configuration for the Brewfather API
 
-The repo contains configuration for Insomnia to easily query the [Brewfather API](https://docs.brewfather.app/api).
+The repo contains configuration for [Insomnia](https://insomnia.rest/) to easily query the [Brewfather API](https://docs.brewfather.app/api).
 
 ![image info](./screenshot.png)
 
