@@ -10,5 +10,6 @@ The repo contains configuration for [Insomnia](https://insomnia.rest/) to easily
 - Install [Insomnia](https://insomnia.rest/download)
 - Install [insomnia-plugin-prompt](https://www.npmjs.com/package/insomnia-plugin-prompt) from Preferences -> Plugins
 - [Import](https://docs.insomnia.rest/insomnia/import-export-data#import-data) `insomnia_brewfather.json` from this repo
+- Click the `DEBUG` button; top middle of the window
 - Configure the `Change me!` [Environment](https://docs.insomnia.rest/insomnia/environment-variables/#environment-basics) with your Brewfather UserID and API-Key
 - Select the desired API endpoint from the left panel, populate any query parameters  needed and hit `Send`.
