@@ -973,7 +973,7 @@
             "created": 1651173885510,
             "name": "Change me!",
             "data": {
-                "base_url": "https://api.brewfather.app/v1",
+                "base_url": "https://api.brewfather.app/v2",
                 "user_id": "",
                 "api_key": ""
             },
